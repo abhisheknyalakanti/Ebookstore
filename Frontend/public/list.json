@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Squad",
+    "price": 40,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Suicide Squad",
+    "title": "Squad",
+    "price": 99,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Jackie Chan",
+    "title": "Jacky",
+    "price": 40,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Squad",
+    "price": 40,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Music Book",
+    "title": "Michel Jackson",
+    "price": 80,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  },
+  {
+    "id": 11,
+    "name": "Story Book",
+    "title": "Panchatantra",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720362327~exp=1720365927~hmac=fa0e2bb3be1ef328d0099d5cdfe2ff1ad91e07670421bf7bb25feb3c9af7ceaa&w=740"
+  }
+]
